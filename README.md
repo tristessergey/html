@@ -1,7 +1,7 @@
 <html>
     <body>
         <main>
-            <h1>Товары для питомца</h1>
+            <h1>Товары для sadsadпитомца</h1>
                 <section class="principles">
                     <article class="principle">
                     <img src="/uploads/2021/02/chemistry-2389151_640_0_1612518875.png" width="50px" height="50px"/>
